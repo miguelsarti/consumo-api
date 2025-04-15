@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Consumo API",
-  description: "Projeto de conjunto de APIs externas",
+  description: "Projeto de consumo de APIs externas",
 };
 
 export default function RootLayout({ children }) {
